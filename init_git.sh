@@ -30,4 +30,7 @@ git clone https://github.com/tutorialzine/awesome-project.git
 запрос изменений с сервера
 git pull origin master
 
+просмотр удаленных репозитариев
+git remote -v
+
 .gitignore
